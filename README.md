@@ -39,9 +39,9 @@ To get started with this project, you'll need to have Go installed on your machi
 
 Each problem is organized in its own directory. You can run the solutions directly from the command line. For example:
 ```bash
-go run path/to/solution.go
+go run easy/count_the_number_of_consistent_strings/solution.go
 ```
-Replace path/to/solution.go with the actual path to the solution file you want to run.
+Replace easy/count_the_number_of_consistent_strings/solution.go with the actual path to the solution file you want to run.
 
 ## Contributing
 
